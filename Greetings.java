@@ -4,5 +4,7 @@ public class Greetings {
 
         // Ask two numbers
         System.out.println("Hello from Jery");
+
+        System.out.println("Hello from Tom");
     }
 }
